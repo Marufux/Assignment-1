@@ -7,6 +7,8 @@ body {
 /* section 1 starts  */
 .part-1 {
   display: flex;
+  margin-bottom: 100px;
+  margin-left: 60px;
 }
 
 .part-1 h1 {
@@ -23,3 +25,18 @@ body {
   margin-left: 60px;
 }
 /* section 1 endss  */
+
+/* section 2  */
+.part-2 {
+  display: flex;
+  justify-content: center;
+  margin-left: 50px;
+  align-items: center;
+}
+
+.about-me {
+  margin-left: 120px;
+  margin-right: 50px;
+}
+
+/* section 2  */
